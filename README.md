@@ -79,7 +79,7 @@ Here's a list of some of the projects I've worked on:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=undervolta&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html&exclude_repo=github-readme-stats,Material-Odence,Odence-GitHub,GML-Ext-Helper)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html,shell&exclude_repo=github-readme-stats,Material-Odence,Odence-GitHub,GML-Ext-Helper)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ---
