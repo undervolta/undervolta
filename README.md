@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-**I'm** [**Undervolta**](https://lefinitas.com/home)
+**I'm** [**Undervolta**](https://lefinitas.com/home)!
 
-:performing_arts:  'Undervolta' is just an alias, you can call me **Elta** ( ♂ ).  
-:computer:  A solo game developer.  
-:video_game:  Mediocre gamer.  
-:globe_with_meridians:  Self-learning about game and web development.  
-:black_nib:  Loves vector design and art.  
-:unlock:   Open-source enthusiast.  
-:hotsprings:  A low-key weebs.  
-:dash:  Kinda awkward, weird, and cringe in real life.  
-:anger:  Making memes and sh*tposting is my thing.
+:performing_arts: &nbsp; 'Undervolta' is just an alias, you can call me **Elta** ( ♂ ).  
+:computer: &nbsp; A solo game developer.  
+:video_game: &nbsp; Mediocre gamer.  
+:globe_with_meridians: &nbsp; Self-learning about game and web development.  
+:black_nib: &nbsp; Loves vector design and art.  
+:unlock: &nbsp;&nbsp; Open-source enthusiast.  
+:hotsprings: &nbsp; A low-key weebs.  
+:dash: &nbsp; Kinda awkward, weird, and cringe in real life.  
+:anger: &nbsp; Making memes and sh*tposting is my thing.
 
 ---
 
@@ -70,8 +70,8 @@ Here's a list of some of the projects I've worked on:
 
 | Title | Type | Description | Link | Status |
 | :---: | ---- | ----------- | ---- | ------ |
-| ![Odd Sequence](https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874) <br> **Odd Sequence** | Game | A stylish indie Action-RPG with armed Bots and a cool flat, minimalist geometric art style. It's all about skill-based combat, with tons of ways to tweak your attacks. | [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://store.steampowered.com/app/2896040/Odd_Sequence/) <br> [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://undervolta.itch.io/odd-sequence-demo) <br> [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](https://www.humblebundle.com/store/odd-sequence) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ![GM-I18n](https://ik.imagekit.io/undervolta/Library-1-Icon-Dark.webp?updatedAt=1747923961366) <br> **GM-I18n** | Library | An internationalization library for GameMaker 2.3+. | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/undervolta/GM-I18n) | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) |
+| ![Odd Sequence](https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874) <br> **Odd Sequence** | Game | A stylish indie Action-RPG with armed Bots and a cool flat, minimalist geometric art style. It's all about skill-based combat, with tons of ways to tweak your attacks. | [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://store.steampowered.com/app/2896040/Odd_Sequence/) <br> [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://undervolta.itch.io/odd-sequence-demo) <br> [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](https://www.humblebundle.com/store/odd-sequence) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| ![GM-I18n](https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582) <br> **GM-I18n** | Library | An internationalization library for GameMaker 2.3+. | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/undervolta/GM-I18n) | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) |
 
 ---
 
@@ -79,7 +79,7 @@ Here's a list of some of the projects I've worked on:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=undervolta&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html&exclude_repo=github-readme-stats,Material-Odence,Odence-GitHub,GML-Ext-Helper)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ---
