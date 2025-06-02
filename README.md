@@ -9,8 +9,7 @@
 :black_nib: &nbsp; Loves vector design and art.  
 :unlock: &nbsp;&nbsp; Open-source enthusiast.  
 :hotsprings: &nbsp; A low-key weebs.  
-:dash: &nbsp; Kinda awkward, weird, and cringe in real life.  
-:anger: &nbsp; Making memes and sh*tposting is my thing.
+:anger: &nbsp; Making memes, sh*tposting, and doomposting is my thing.
 
 ---
 
@@ -24,11 +23,11 @@ Here's a snapshot of the technologies and tools I frequently use, along with my 
 | ----------------- | ----------- | ----- |
 | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) | ⭐⭐⭐ | Intermediate knowledge |
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) | ⭐⭐ | Basic knowledge |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) | ⭐⭐ | Basic knowledge, still learning |
-| ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82) | ⭐⭐ | Basic knowledge, still learning |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) | ⭐⭐ | Basic knowledge, still learning |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) | ⭐⭐ | Basic knowledge |
+| ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82) | ⭐⭐ | Basic knowledge |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) | ⭐⭐ | Basic knowledge |
+| ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff) | ⭐⭐ | Basic knowledge |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) | ⭐⭐ | Basic knowledge, migrated to Tailwind |
-| ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff) | ⭐⭐ | Basic knowledge, still learning |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) | ⭐⭐ | Basic knowledge, only learn it if needed |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) | ⭐⭐ | Basic knowledge, only learn it if needed |
 
@@ -42,9 +41,10 @@ Here's a snapshot of the technologies and tools I frequently use, along with my 
 
 | Language | Familiarity | Notes |
 | -------- | ----------- | ----- |
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) | ⭐⭐ | Basic knowledge |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) | ⭐⭐ | Basic knowledge |
 | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) | ⭐⭐ | Basic knowledge |
-| **GLSL** | ⭐ | Just started |
+<!-- | **GLSL** | ⭐ | Just started | -->
 
 **Design & Graphics:**
 
@@ -53,7 +53,7 @@ Here's a snapshot of the technologies and tools I frequently use, along with my 
 | ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white) | ⭐⭐⭐⭐ | Quite proficient |
 | ![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white) | ⭐⭐ | Basic knowledge |
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | ⭐⭐ | Basic knowledge |
-| ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white) | ⭐ | Just started |
+<!-- | ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white) | ⭐ | Just started | -->
 
 **Version Control:**
 
@@ -71,7 +71,7 @@ Here's a list of some of the projects I've worked on:
 | Title | Type | Description | Link | Status |
 | :---: | ---- | ----------- | ---- | ------ |
 | ![Odd Sequence](https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874) <br> **Odd Sequence** | Game | A stylish indie Action-RPG with armed Bots and a cool flat, minimalist geometric art style. It's all about skill-based combat, with tons of ways to tweak your attacks. | [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://store.steampowered.com/app/2896040/Odd_Sequence/) <br> [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://undervolta.itch.io/odd-sequence-demo) <br> [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](https://www.humblebundle.com/store/odd-sequence) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ![GM-I18n](https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582) <br> **GM-I18n** | Library | An internationalization library for GameMaker 2.3+. | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/undervolta/GM-I18n) | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) |
+| ![GM-I18n](https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582) <br> **GM-I18n** | Library | An internationalization library for GameMaker 2.3+. | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/undervolta/GM-I18n) <br> [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/undervolta/gm-i18n-docs) <br> [![Website](https://img.shields.io/badge/Website-007a99)](https://gm-i18n.lefinitas.com) | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) |
 
 ---
 
@@ -79,7 +79,7 @@ Here's a list of some of the projects I've worked on:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=undervolta&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html,shell&exclude_repo=github-readme-stats,Material-Odence,Odence-GitHub,GML-Ext-Helper)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html&exclude_repo=github-readme-stats,Material-Odence,Odence-GitHub,GML-Ext-Helper)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ---
