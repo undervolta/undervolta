@@ -1,13 +1,13 @@
-## Hi there 👋
+## Sup! 👋
 
-**I'm** [**Undervolta**](https://lefinitas.com/home)!
+**I'm** [**Undervolta**](https://lefinitas.com/home)! 
 
 :performing_arts: &nbsp; 'Undervolta' is just an alias, you can call me **Elta** ( ♂ ).  
 :computer: &nbsp; A solo game developer.  
 :video_game: &nbsp; Mediocre gamer.  
 :globe_with_meridians: &nbsp; Self-learning about game and web development.  
 :black_nib: &nbsp; Loves vector design and art.  
-:unlock: &nbsp;&nbsp; Open-source enthusiast.  
+:unlock: &nbsp;&nbsp; Free and Open-source (FOSS) enthusiast.  
 :hotsprings: &nbsp; A low-key weebs.  
 :anger: &nbsp; Making memes, sh*tposting, and doomposting is my thing.
 
@@ -15,52 +15,42 @@
 
 ## :computer: Toolkit & Technologies
 
-Here's a snapshot of the technologies and tools I frequently use, along with my current familiarity level:
+Here's a snapshot of the technologies and tools I frequently use:
 
-**Web Development:**
+### Web Development:
 
-| Tool / Technology | Familiarity | Notes |
-| ----------------- | ----------- | ----- |
-| ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) | ⭐⭐⭐ | Intermediate knowledge |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) | ⭐⭐ | Basic knowledge |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) | ⭐⭐ | Basic knowledge |
-| ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82) | ⭐⭐ | Basic knowledge |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) | ⭐⭐ | Basic knowledge |
-| ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff) | ⭐⭐ | Basic knowledge |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) | ⭐⭐ | Basic knowledge, migrated to Tailwind |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) | ⭐⭐ | Basic knowledge, only learn it if needed |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) | ⭐⭐ | Basic knowledge, only learn it if needed |
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
-**Game Development:**
+### Game Development:
 
-| Tool / Technology | Familiarity | Notes |
-| ----------------- | ----------- | ----- |
-| ![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff) | ⭐⭐⭐ | Intermediate knowledge |
+![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)
 
-**Programming Languages:**
+### Programming Languages:
 
-| Language | Familiarity | Notes |
-| -------- | ----------- | ----- |
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) | ⭐⭐ | Basic knowledge |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) | ⭐⭐ | Basic knowledge |
-| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) | ⭐⭐ | Basic knowledge |
-<!-- | **GLSL** | ⭐ | Just started | -->
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+<!-- **GLSL** -->
 
-**Design & Graphics:**
+### Design & Graphics:
 
-| Tool / Technology | Familiarity | Notes |
-| ----------------- | ----------- | ----- |
-| ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white) | ⭐⭐⭐⭐ | Quite proficient |
-| ![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white) | ⭐⭐ | Basic knowledge |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | ⭐⭐ | Basic knowledge |
-<!-- | ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white) | ⭐ | Just started | -->
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+<!-- ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white) -->
 
-**Version Control:**
+### Version Control:
 
-| Tool / Technology | Familiarity | Notes |
-| ----------------- | ----------- | ----- |
-| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) | ⭐⭐ | Basic knowledge |
-| ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) | ⭐⭐ | Basic knowledge |
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
 ---
 
