@@ -1,21 +1,20 @@
 ## Sup! 👋
 
-**I'm** [**Undervolta**](https://lefinitas.com/home)! 
+I'm [**Undervolta**](https://lefinitas.com/home), your everyday IT clown! :dash:
 
-:performing_arts: &nbsp; 'Undervolta' is just an alias, you can call me **Elta** ( ♂ ).  
-:computer: &nbsp; A solo game developer.  
-:video_game: &nbsp; Mediocre gamer.  
-:globe_with_meridians: &nbsp; Self-learning about game and web development.  
-:black_nib: &nbsp; Loves vector design and art.  
-:unlock: &nbsp;&nbsp; Free and Open-source (FOSS) enthusiast.  
-:hotsprings: &nbsp; A low-key weebs.  
-:anger: &nbsp; Making memes, sh*tposting, and doomposting is my thing.
+It's just an alias, you can call me **Elta** ( ♂ ).  
+
+- A solo game developer.  
+- Mediocre gamer.  
+- Self-learning about game and web development.  
+- Loves vector design and art.  
+- Free and Open-source (FOSS) enthusiast.  
+- A low-key weebs.  
+- Making memes, sh*tposting, and doomposting is my thing.
 
 ---
 
 ## :computer: Toolkit & Technologies
-
-Here's a snapshot of the technologies and tools I frequently use:
 
 ### Web Development:
 
@@ -56,8 +55,6 @@ Here's a snapshot of the technologies and tools I frequently use:
 
 ## :open_file_folder: Projects
 
-Here's a list of some of the projects I've worked on:
-
 | Title | Type | Description | Link | Status |
 | :---: | ---- | ----------- | ---- | ------ |
 | ![Odd Sequence](https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874) <br> **Odd Sequence** | Game | A stylish indie Action-RPG with armed Bots and a cool flat, minimalist geometric art style. It's all about skill-based combat, with tons of ways to tweak your attacks. | [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://store.steampowered.com/app/2896040/Odd_Sequence/) <br> [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://undervolta.itch.io/odd-sequence-demo) <br> [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](https://www.humblebundle.com/store/odd-sequence) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![Ongoing](https://img.shields.io/badge/Ongoing-447821) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -76,7 +73,7 @@ Here's a list of some of the projects I've worked on:
 
 ## :mailbox_with_mail: Get in Touch!
 
-Feel free to connect with me if you have any questions, want to collaborate, or just want to chat about development!
+I'm always open to new connections and collaborations!
 
 | Platform | Link |
 | -------- | ---- |
