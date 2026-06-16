@@ -1,6 +1,6 @@
 ## Sup! 👋
 
-Just call me **Elta** ( ♂ ), your average IT clown!
+<!--Just call me **Elta** ( ♂ ), your average IT clown!-->
 
 ---
 
