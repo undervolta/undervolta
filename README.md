@@ -71,94 +71,65 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
 
 ## Projects
 
-<div> 
-    <div style="display: flex; align-items: center;"> 
-        <img src="https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874" alt="Odd Sequence" width="48" style="margin-inline-end: 0.5rem;">
-        <div>
-            <div style="display: flex; align-items: center;"> 
-                <h3 style="margin-inline-end: 0.5rem;">Odd Sequence</h3>
-                <img src="https://img.shields.io/badge/Game-darkgreen" alt="Game" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1); margin-inline-end: 0.5rem;">
-                <img src="https://img.shields.io/badge/Hiatus-c75000" alt="Hiatus" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1);">
-            </div>
-            <div style="display: flex; align-items: center;"> 
-                <a href="https://store.steampowered.com/app/2896040/Odd_Sequence/" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white&style=for-the-badge" alt="Steam">
-                </a>
-                <a href="https://undervolta.itch.io/odd-sequence-demo" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge" alt="Itch.io">
-                </a>
-                <a href="https://www.humblebundle.com/store/odd-sequence" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white&style=for-the-badge" alt="Humble Bundle">
-                </a>
-            </div>
-            <p>A stylish indie Action-RPG with armed Bots and a cool flat, minimalist geometric art style. It's all about skill-based combat, with tons of ways to tweak your attacks.</p>
-            <p style="font-style: italic;">Will be continued after changing the game engine</p>
-        </div>
-    </div>
-    <hr>
-    <div style="display: flex; align-items: center;"> 
-        <img src="https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582" alt="GM-I18n" width="48" style="margin-inline-end: 0.5rem;">
-        <div>
-            <div style="display: flex; align-items: center;"> 
-                <h3 style="margin-inline-end: 0.5rem;">GM-I18n</h3>
-                <img src="https://img.shields.io/badge/Library-teal" alt="Library" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1); margin-inline-end: 0.5rem;">
-                <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1);">
-            </div>
-            <div style="display: flex; align-items: center;"> 
-                <a href="https://github.com/undervolta/GM-I18n" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github">
-                </a>
-                <a href="https://gm-i18n-docs.netlify.app/" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/Docs-007a99?style=for-the-badge" alt="Website">
-                </a>
-            </div>
-            <p>A powerful, open source internationalization (i18n) library for GameMaker 2.3+.</p>
-            <p style="font-style: italic;">Canceled as I no longer use GameMaker</p>
-        </div>
-    </div>
-    <hr>
-    <div style="display: flex; align-items: center;"> 
-        <img src="https://ik.imagekit.io/undervolta/Tools-1-Icon-Dark.webp?updatedAt=1781754050875" alt="ScaffScript" width="48" style="margin-inline-end: 0.5rem;">
-        <div>
-            <div style="display: flex; align-items: center;"> 
-                <h3 style="margin-inline-end: 0.5rem;">ScaffScript</h3>
-                <img src="https://img.shields.io/badge/Tools-purple" alt="Tools" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1); margin-inline-end: 0.5rem;">
-                <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1);">
-            </div>
-            <div style="display: flex; align-items: center;"> 
-                <a href="https://github.com/undervolta/scaffscript" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github">
-                </a>
-                <a href="https://scaffscript-docs.netlify.app/" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/Docs-007a99?style=for-the-badge" alt="Website">
-                </a>
-            </div>
-            <p>A superset language of GameMaker Language (GML) for creating module-based GameMaker source codes.</p>
-            <p style="font-style: italic;">Canceled as I no longer use GameMaker</p>
-        </div>
-    </div>
-    <hr>
-    <div style="display: flex; align-items: center;"> 
-        <img src="https://ik.imagekit.io/undervolta/Library-2-Icon-Dark.webp?updatedAt=1781754082119" alt="NimbusDB" width="48" style="margin-inline-end: 0.5rem;">
-        <div>
-            <div style="display: flex; align-items: center;"> 
-                <h3 style="margin-inline-end: 0.5rem;">NimbusDB</h3>
-                <img src="https://img.shields.io/badge/Library-teal" alt="Library" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1); margin-inline-end: 0.5rem;">
-                <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled" style="transform: translate(0, 0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1);">
-            </div>
-            <div style="display: flex; align-items: center;"> 
-                <a href="https://github.com/undervolta/NimbusDB" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github">
-                </a>
-                <a href="https://nimbusdb-docs.netlify.app/" style="margin-inline-end: 0.5rem;"> 
-                    <img src="https://img.shields.io/badge/Docs-007a99?style=for-the-badge" alt="Website">
-                </a>
-            </div>
-            <p>A full-featured in-memory ORM and reactive query engine for GameMaker 2.3+.</p>
-            <p style="font-style: italic;">Canceled as I no longer use GameMaker</p>
-        </div>
-    </div>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Logo</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874" alt="Odd Sequence" width="48"></td>
+      <td>
+        <strong>Odd Sequence</strong>
+        <img src="https://img.shields.io/badge/Game-darkgreen" alt="Game">
+        <img src="https://img.shields.io/badge/Hiatus-c75000" alt="Hiatus"><br>
+        <a href="https://store.steampowered.com/app/2896040/Odd_Sequence/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"></a>
+        <a href="https://undervolta.itch.io/odd-sequence-demo"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Itch.io"></a>
+        <a href="https://www.humblebundle.com/store/odd-sequence"><img src="https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white" alt="Humble Bundle"></a><br>
+        A stylish indie Action-RPG with armed Bots and a cool flat, minimalist geometric art style. It's all about skill-based combat, with tons of ways to tweak your attacks.<br>
+        <i>Will be continued after changing the game engine</i>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582" alt="GM-I18n" width="48"></td>
+      <td>
+        <strong>GM-I18n</strong>
+        <img src="https://img.shields.io/badge/Library-teal" alt="Library">
+        <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
+        <a href="https://github.com/undervolta/GM-I18n"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
+        <a href="https://gm-i18n-docs.netlify.app/"><img src="https://img.shields.io/badge/Docs-007a99" alt="Website"></a><br>
+        A powerful, open source internationalization (i18n) library for GameMaker 2.3+.<br>
+        <i>Canceled as I no longer use GameMaker</i>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://ik.imagekit.io/undervolta/Tools-1-Icon-Dark.webp?updatedAt=1781754050875" alt="ScaffScript" width="48"></td>
+      <td>
+        <strong>ScaffScript</strong>
+        <img src="https://img.shields.io/badge/Tools-purple" alt="Tools">
+        <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
+        <a href="https://github.com/undervolta/scaffscript"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
+        <a href="https://scaffscript-docs.netlify.app/"><img src="https://img.shields.io/badge/Docs-007a99" alt="Website"></a><br>
+        A superset language of GameMaker Language (GML) for creating module-based GameMaker source codes.<br>
+        <i>Canceled as I no longer use GameMaker</i>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://ik.imagekit.io/undervolta/Library-2-Icon-Dark.webp?updatedAt=1781754082119" alt="NimbusDB" width="48"></td>
+      <td>
+        <strong>NimbusDB</strong>
+        <img src="https://img.shields.io/badge/Library-teal" alt="Library">
+        <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
+        <a href="https://github.com/undervolta/NimbusDB"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
+        <a href="https://nimbusdb-docs.netlify.app/"><img src="https://img.shields.io/badge/Docs-007a99" alt="Website"></a><br>
+        A full-featured in-memory ORM and reactive query engine for GameMaker 2.3+.<br>
+        <i>Canceled as I no longer use GameMaker</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
