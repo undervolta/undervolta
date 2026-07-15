@@ -82,7 +82,7 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
     <tr>
       <td><img src="https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874" alt="Odd Sequence" width="48"></td>
       <td>
-        <strong>Odd Sequence</strong>
+        <strong>Odd Sequence</strong><br>
         <img src="https://img.shields.io/badge/Game-darkgreen" alt="Game">
         <img src="https://img.shields.io/badge/Hiatus-c75000" alt="Hiatus"><br>
         <a href="https://store.steampowered.com/app/2896040/Odd_Sequence/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"></a>
@@ -95,7 +95,7 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
     <tr>
       <td><img src="https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582" alt="GM-I18n" width="48"></td>
       <td>
-        <strong>GM-I18n</strong>
+        <strong>GM-I18n</strong><br>
         <img src="https://img.shields.io/badge/Library-teal" alt="Library">
         <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
         <a href="https://github.com/undervolta/GM-I18n"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
@@ -107,7 +107,7 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
     <tr>
       <td><img src="https://ik.imagekit.io/undervolta/Tools-1-Icon-Dark.webp?updatedAt=1781754050875" alt="ScaffScript" width="48"></td>
       <td>
-        <strong>ScaffScript</strong>
+        <strong>ScaffScript</strong><br>
         <img src="https://img.shields.io/badge/Tools-purple" alt="Tools">
         <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
         <a href="https://github.com/undervolta/scaffscript"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
@@ -119,7 +119,7 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
     <tr>
       <td><img src="https://ik.imagekit.io/undervolta/Library-2-Icon-Dark.webp?updatedAt=1781754082119" alt="NimbusDB" width="48"></td>
       <td>
-        <strong>NimbusDB</strong>
+        <strong>NimbusDB</strong><br>
         <img src="https://img.shields.io/badge/Library-teal" alt="Library">
         <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
         <a href="https://github.com/undervolta/NimbusDB"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
