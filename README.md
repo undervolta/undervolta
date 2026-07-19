@@ -30,7 +30,6 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 <!--![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)]-->
 <!--![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)-->
-<br>
 
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
@@ -83,8 +82,9 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
       <td><img src="https://ik.imagekit.io/undervolta/Game-1-Icon-Dark.webp?updatedAt=1745537279874" alt="Odd Sequence" width="48"></td>
       <td>
         <strong>Odd Sequence</strong><br>
-        <img src="https://img.shields.io/badge/Game-darkgreen" alt="Game">
-        <img src="https://img.shields.io/badge/Hiatus-c75000" alt="Hiatus"><br>
+        <img src="https://img.shields.io/badge/Type-Game-darkgreen" alt="Game">
+        <img src="https://img.shields.io/badge/Status-Hiatus-c75000" alt="Hiatus">
+        <br>
         <a href="https://store.steampowered.com/app/2896040/Odd_Sequence/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"></a>
         <a href="https://undervolta.itch.io/odd-sequence-demo"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Itch.io"></a>
         <a href="https://www.humblebundle.com/store/odd-sequence"><img src="https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white" alt="Humble Bundle"></a><br>
@@ -96,8 +96,8 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
       <td><img src="https://ik.imagekit.io/undervolta/Library-1-Icon-Dark-2.webp?updatedAt=1748272623582" alt="GM-I18n" width="48"></td>
       <td>
         <strong>GM-I18n</strong><br>
-        <img src="https://img.shields.io/badge/Library-teal" alt="Library">
-        <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
+        <img src="https://img.shields.io/badge/Type-Library-teal" alt="Library">
+        <img src="https://img.shields.io/badge/Status-Cancelled-red" alt="Cancelled"><br>
         <a href="https://github.com/undervolta/GM-I18n"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
         <a href="https://gm-i18n-docs.netlify.app/"><img src="https://img.shields.io/badge/Docs-007a99" alt="Website"></a><br>
         A powerful, open source internationalization (i18n) library for GameMaker 2.3+.<br>
@@ -108,8 +108,8 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
       <td><img src="https://ik.imagekit.io/undervolta/Tools-1-Icon-Dark.webp?updatedAt=1781754050875" alt="ScaffScript" width="48"></td>
       <td>
         <strong>ScaffScript</strong><br>
-        <img src="https://img.shields.io/badge/Tools-purple" alt="Tools">
-        <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
+        <img src="https://img.shields.io/badge/Type-Tools-purple" alt="Tools">
+        <img src="https://img.shields.io/badge/Status-Cancelled-red" alt="Cancelled"><br>
         <a href="https://github.com/undervolta/scaffscript"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
         <a href="https://scaffscript-docs.netlify.app/"><img src="https://img.shields.io/badge/Docs-007a99" alt="Website"></a><br>
         A superset language of GameMaker Language (GML) for creating module-based GameMaker source codes.<br>
@@ -120,8 +120,8 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
       <td><img src="https://ik.imagekit.io/undervolta/Library-2-Icon-Dark.webp?updatedAt=1781754082119" alt="NimbusDB" width="48"></td>
       <td>
         <strong>NimbusDB</strong><br>
-        <img src="https://img.shields.io/badge/Library-teal" alt="Library">
-        <img src="https://img.shields.io/badge/Cancelled-red" alt="Cancelled"><br>
+        <img src="https://img.shields.io/badge/Type-Library-teal" alt="Library">
+        <img src="https://img.shields.io/badge/Status-Cancelled-red" alt="Cancelled"><br>
         <a href="https://github.com/undervolta/NimbusDB"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"></a>
         <a href="https://nimbusdb-docs.netlify.app/"><img src="https://img.shields.io/badge/Docs-007a99" alt="Website"></a><br>
         A full-featured in-memory ORM and reactive query engine for GameMaker 2.3+.<br>
