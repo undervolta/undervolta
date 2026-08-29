@@ -135,7 +135,7 @@ Just call me **Elta** ( ♂ ), I'll be happy to help you!
 
 <!-- [![GitHub Stats](https://github-readme-stats-one-flame-96.vercel.app/api?username=undervolta&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide_rank=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=undervolta&theme=aura-dark&hide_border=true&timezone=UTC%2B7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=undervolta&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--[![Top Languages](https://github-readme-stats-one-flame-96.vercel.app/api/top-langs/?username=undervolta&layout=donut&theme=vision-friendly-dark&hide=css,html&exclude_repo=github-readme-stats,Material-Odence,Odence-GitHub,GML-Ext-Helper)](https://github.com/anuraghazra/github-readme-stats) -->
 
