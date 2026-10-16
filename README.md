@@ -148,7 +148,7 @@ I'm always open to new connections and collaborations!
 
 | Platform | Link |
 | -------- | ---- |
-| **Email** | [![Email](https://img.shields.io/badge/undervolta@outlook.com-0088aa?logo=gmail&logoColor=white)](mailto:undervolta@outlook.com) |
+| **Email** | [![Email](https://img.shields.io/badge/undervolta.uv@gmail.com-0088aa?logo=gmail&logoColor=white)](mailto:undervolta.uv@gmail.com) |
 | **Facebook** | [![Facebook](https://img.shields.io/badge/Undervolta-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/undervolta) |
 | **YouTube** | [![YouTube](https://img.shields.io/badge/Undervolta-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@undervolta) |
 | **Discord** | [![Discord](https://img.shields.io/badge/Undervolta-5865F2?logo=discord&logoColor=fff)](https://discord.com/invite/5rXGW7SPkF) |
